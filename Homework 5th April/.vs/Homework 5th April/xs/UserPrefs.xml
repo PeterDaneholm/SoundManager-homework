@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{51308A96-1F91-8E4B-485B-17D1DA94E987}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/VolumeSlider.cs">
+    <Files>
+      <File FileName="Assets/SoundManager.cs" Line="6" Column="2" />
+      <File FileName="Assets/PlaySoundOnStart.cs" Line="18" Column="1" />
+      <File FileName="Assets/VolumeSlider.cs" Line="9" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Homework 5th April" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="VolumeSlider.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="05b393f0-d8d8-4b9d-9bf3-2645b81c6be9" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
